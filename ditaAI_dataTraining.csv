@@ -469,16 +469,14 @@ aplikasi,install uninstall aplikasi
 reset password,reset user password
 "connect wifi, laptop",laptop saya tidak bisa connect jaringan kantor
 cs,cs setia
-"ditaaja, laptop, mohon, password",ditaaja chatbot laptop demi keamanan account anda mohon tidak memberikan password baru kepada siapapun password baru laptop xt32r
 "cara connect, connect wifi",hi cara connect wifi bagaimana
-"ditaaja, laptop, mohon, password",ditaaja chatbot laptop demi keamanan account anda mohon tidak memberikan password baru kepada siapapun password baru laptop unbb
-"gagal connect, masalah, network",saya ada masalah tidak bisa connect ke network
+"gagal connect, network",saya ada masalah tidak bisa connect ke network
 email,cek alamat email
 moana,moana nyantol
 power,tolong install power bi kaka
 connect wifi,tidak bisa connect jaringan
 "wifi, internet",connect internet buat sertifikat to sign in
-network,tidak bisa connect ke network
+gagal connect, network,tidak bisa connect ke network
 perso,tidak bisa perso di counter 6
 visa,bagaimana cara connect visa
 "setting, email",bagaimana cara setting email di mac
