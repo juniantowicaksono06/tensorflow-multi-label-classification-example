@@ -366,6 +366,10 @@
 "cek alamat email",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 "moana nyantol",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
 "connect internet buat sertifikat to sign in",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-"tidak bisa connect ke network",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"tidak bisa connect ke network",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
 "bagaimana cara connect visa",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
 "bagaimana cara setting email di mac",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"connect ke visa dan create ticket visa",0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+"cara reset password domain",0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+"bagaimana cara connect visa lalu create ticket visa",0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+"connect vpn dan create ticket visa",0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
