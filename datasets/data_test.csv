@@ -1,85 +1,90 @@
-"questions","domain","dsc","email","gagal connect","laptop","login","moana","network","password","reset password","sccm","ticket","visa","vpn","wifi"
-"cara connect ke visa",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
-"cara connect ke wifi",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-"cara setting email",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-"gagal connect ke vpn",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
-"cara reset password domain",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-"panduan cara membuat ticket",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-"bagaimana cara membuat ticket",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-"panduan cara connect visa",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
-"bagaimana cara setting email",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-"bagaimana mengatasi laptop error",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-"gagal login network",0,0,0,1,0,1,0,1,0,0,0,0,0,0,0
-"unlock user domain",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"bagaimana cara atasi laptop error",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-"bagaimana cara login vpn",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
-"cara login visa",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
-"cara buat ticket visa management",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-"cara menggunakan moana",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-"tidak bisa connect ke wifi",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-"tidak bisa connect ke corporate network",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
-"network error",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
-"password saya expired",0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
-"panduan reset password",0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
-"user domain saya ke lock",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"cara install moana",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-"cara ubah password domain",0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
-"bagaimana cara connect visa dan vpn",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
-"connect ke byod",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-"cara connect wifi",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-"domain saya terkunci",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"kenapa laptop saya bermasalah",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-"gagal connect visa",0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
-"cara membuat ticket regional support",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-"login onedrive dari web browser",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
-"panduan login onedrive dari browser",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
-"cara login dsc dengan passport",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-"bagaimana cara backup email",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-"cara connect wifi dan connect visa",0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
-"cara menggunakan visa",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
-"cara terhubung ke intranet",0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
-"panduan connect vpn",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
-"panduan login ke visa",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
-"bagaimana cara unlock domain dan reset password",1,0,0,0,0,0,0,0,1,1,0,0,0,0,0
-"reset password dari moana",0,0,0,0,0,0,1,0,1,1,0,0,0,0,0
-"create ticket request",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-"bagaimana cara atasi laptop yang error",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-"gagal connect email",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
-"bagaimana cara mengatasi network error",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
-"panduan cara connect vpn",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
-"gagal connect ke intranet",0,0,0,1,0,0,0,0,0,0,0,0,1,1,1
-"bagaimana saya terhubung ke intranet",0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
-"tidak bisa connect ke izone",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-"bagaimana cara connect wifi byod",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-"domain saya tidak dapat di akses",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"cara buat folder di email",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-"bagaimana cara login ke onedrive",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
-"bagaimana cara buat ticket dan connect wifi",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
-"gimana caranya saya connect vpn dan wifi",0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
-"saya ingin connect ke vpn dan wifi",0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
-"cara reset password dan connect ke wifi",0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
-"connect ke wifi tapi sebelum itu reset password dulu",0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
-"menggunakan moana bagaimana caranya saya mereset password domain",0,0,0,0,0,0,1,0,1,1,0,0,0,0,0
-"saya mau reset password dengan moana",0,0,0,0,0,0,1,0,1,1,0,0,0,0,0
-"saya ingin ubah password saya",0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
-"bantu saya untuk merubah password",0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
-"cara connect dsc",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-"bagaimana cara menggunakan dsc",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-"bagaimana cara menambah user di dsc",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-"saya ingin install aplikasi",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-"bagaimana cara melakukan instalasi aplikasi",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-"panduan cara instalasi aplikasi lewat software center",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-"cara install winrar di laptop",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-"cara install aplikasi baru",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-"tidak bisa connect ke intranet",0,0,0,1,0,0,0,0,0,0,0,0,1,1,1
-"tidak terhubung ke jaringan sama sekali",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-"saya mau buat ticket komplain visa",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-"visa saya error dan saya mau buat ticket",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-"bantu saya untuk membuat ticket komplain visa dong",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-"bagaimana cara connect izone visa dan vpn",0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
-"saya ingin connect ke byod visa dan vpn",0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
-"cara buat komplain visa management",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-"panduan buat komplain visa management",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-"cara reset password domain",0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
-"cara membuat ticket visa management dan connect visa",0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
-"saya ingin buat ticket visa lalu saya juga ingin tahu cara connect vpn",0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+"questions","aplikasi","connect wifi","corporate network","create ticket","ditaaja","domain","dsc","email","gagal connect","laptop","login","moana","network","password","printer","reset","reset password","sccm","software center","ticket","visa","vpn","wifi"
+"cara connect ke visa",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"cara connect ke wifi",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"cara setting email",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"gagal connect ke vpn",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"cara reset password domain",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"panduan cara membuat ticket",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"bagaimana cara membuat ticket",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"panduan cara connect visa",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"bagaimana cara setting email",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"bagaimana mengatasi laptop error",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"gagal login network",0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+"unlock user domain",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"bagaimana cara atasi laptop error",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"bagaimana cara login vpn",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"cara login visa",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"cara buat ticket visa management",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"cara menggunakan moana",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"tidak bisa connect ke wifi",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"tidak bisa connect ke corporate network",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"network error",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"password saya expired",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+"panduan reset password",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+"user domain saya ke lock",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"cara install moana",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"cara ubah password domain",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+"bagaimana cara connect visa dan vpn",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+"connect ke byod",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"cara connect wifi",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"domain saya terkunci",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"kenapa laptop saya bermasalah",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"gagal connect visa",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"cara membuat ticket regional support",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"login onedrive dari web browser",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"panduan login onedrive dari browser",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"cara login dsc dengan passport",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"bagaimana cara backup email",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"cara connect wifi dan connect visa",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+"cara menggunakan visa",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"cara terhubung ke intranet",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+"panduan connect vpn",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"panduan login ke visa",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"bagaimana cara unlock domain dan reset password",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+"reset password dari moana",0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+"create ticket request",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"bagaimana cara atasi laptop yang error",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"gagal connect email",0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"bagaimana cara mengatasi network error",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"panduan cara connect vpn",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"gagal connect ke intranet",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+"bagaimana saya terhubung ke intranet",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+"tidak bisa connect ke izone",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"bagaimana cara connect wifi byod",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"domain saya tidak dapat di akses",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"cara buat folder di email",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"bagaimana cara login ke onedrive",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"bagaimana cara buat ticket dan connect wifi",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"gimana caranya saya connect vpn dan wifi",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+"saya ingin connect ke vpn dan wifi",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+"cara reset password dan connect ke wifi",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+"connect ke wifi tapi sebelum itu reset password dulu",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+"menggunakan moana bagaimana caranya saya mereset password domain",0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+"saya mau reset password dengan moana",0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+"saya ingin ubah password saya",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+"bantu saya untuk merubah password",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+"cara connect dsc",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"bagaimana cara menggunakan dsc",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"bagaimana cara menambah user di dsc",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"saya ingin install aplikasi",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"bagaimana cara melakukan instalasi aplikasi",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"panduan cara instalasi aplikasi lewat software center",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"cara install winrar di laptop",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"cara install aplikasi baru",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"tidak bisa connect ke intranet",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+"tidak terhubung ke jaringan sama sekali",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"saya mau buat ticket komplain visa",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"visa saya error dan saya mau buat ticket",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"bantu saya untuk membuat ticket komplain visa dong",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"bagaimana cara connect izone visa dan vpn",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+"saya ingin connect ke byod visa dan vpn",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+"cara buat komplain visa management",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"panduan buat komplain visa management",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"cara reset password domain",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+"cara membuat ticket visa management dan connect visa",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+"saya ingin buat ticket visa lalu saya juga ingin tahu cara connect vpn",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+"cara atasi password expired",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"domain saya minta di unlock",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"cara cek status ticket",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"bagaimana cara check status ticket",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"cara check status ticket saya",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
